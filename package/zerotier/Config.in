@@ -1,0 +1,8 @@
+config BR2_PACKAGE_ZEROTIER
+	bool "zerotier"
+        help
+          ZeroTier One is an app for Windows, Macintosh, Linux, BSD, Android,
+          and iOS that connects devices, servers, and containers to virtual
+          networks.
+
+          https://www.zerotier.com/
